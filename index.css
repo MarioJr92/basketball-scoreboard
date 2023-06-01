@@ -72,33 +72,43 @@ body {
     0% {
         transform: translateX(0);
     }
+
     10% {
         transform: translateX(-5px);
     }
+
     20% {
         transform: translateX(5px);
     }
+
     30% {
         transform: translateX(-5px);
     }
+
     40% {
         transform: translateX(5px);
     }
+
     50% {
         transform: translateX(-5px);
     }
+
     60% {
         transform: translateX(5px);
     }
+
     70% {
         transform: translateX(-5px);
     }
+
     80% {
         transform: translateX(5px);
     }
+
     90% {
         transform: translateX(-5px);
     }
+
     100% {
         transform: translateX(0);
     }
@@ -115,14 +125,14 @@ body {
         font-size: 30px;
         margin-top: 40px;
     }
-    
+
     .score {
         font-size: 60px;
         height: 80px;
         line-height: 80px;
         width: 110px;
     }
-    
+
     .score-btn {
         font-size: 12px;
         margin-top: 20px;
@@ -131,8 +141,3 @@ body {
         height: 30px;
     }
 }
-
-
-
-
-
