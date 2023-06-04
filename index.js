@@ -53,8 +53,8 @@ const updateLeadingTeam = () => {
         guestTitle.classList.add("animation");
         homeTitle.classList.remove("animation");
     } else {
-        homeTitle.classList.remove("animation");
-        guestTitle.classList.remove("animation");
+        homeTitle.classList.add("animation");
+        guestTitle.classList.add("animation");
     }
 };
 
